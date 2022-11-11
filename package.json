@@ -1,7 +1,7 @@
 {
   "name": "servidoravanzada",
   "version": "1.0.0",
-  "description": "api rest hoteles",
+  "description": "servidoravanzada2022",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -12,8 +12,8 @@
     "REST",
     "CESDE"
   ],
-  "author": "Esteban Palencia A",
-  "license": "ISC",
+  "author": "Daniel",
+  "license": "cc",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.1",
